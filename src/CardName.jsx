@@ -13,7 +13,7 @@ function CardName() {
               alt=" "
               className="w-30 rounded-full shadow- border-2"
             />
-            <h1 className="text-xl font-bold">BILLIE EILISH</h1>
+            <h1 className="text-xl font-bold">BILLIE SYAHPUTRA</h1>
             <p className="text-gray-500">Singer</p>
           </div>
 
