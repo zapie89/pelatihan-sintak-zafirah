@@ -105,7 +105,7 @@ function Section2() {
       <div className="flex justify-center gap-4 mt-5">
         <div className="card bg-base-100 w-96 shadow-sm  ">
           <figure className="px-10 pt-10">
-            <img src="src/assets/aren.jpg" alt="Latte" className="rounded-xl" />
+            <img src="\aren.jpg" alt="Latte" className="rounded-xl" />
           </figure>
           <div className="card-body items-center text-center">
             <h2 className="card-title">Aren Latte</h2>
