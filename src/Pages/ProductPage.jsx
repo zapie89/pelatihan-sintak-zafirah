@@ -23,7 +23,7 @@ function HeroSection() {
       <div
         className="hero h-[550px]"
         style={{
-          backgroundImage: "url(src/assets/kopi2.jpg)",
+          backgroundImage: "url(/kopi2.jpg)",
         }}
       >
         <div className="hero-overlay"></div>
@@ -55,11 +55,7 @@ function Section2() {
       <div className="flex justify-center gap-4 mt-5">
         <div className="card bg-base-100 w-96 shadow-sm  ">
           <figure className="px-10 pt-10">
-            <img
-              src="src/assets/latte.jpg"
-              alt="Latte"
-              className="rounded-xl"
-            />
+            <img src="\latte.jpg" alt="Latte" className="rounded-xl" />
           </figure>
           <div className="card-body items-center text-center">
             <h2 className="card-title">Coffee Latte</h2>
@@ -75,11 +71,7 @@ function Section2() {
 
         <div className="card bg-base-100 w-96 shadow-sm  ">
           <figure className="px-10 pt-10">
-            <img
-              src="src/assets/matcha.jpg"
-              alt="Shoes"
-              className="rounded-xl"
-            />
+            <img src="\matcha.jpg" alt="Shoes" className="rounded-xl" />
           </figure>
           <div className="card-body items-center text-center">
             <h2 className="card-title">Matcha Latte</h2>
@@ -95,11 +87,7 @@ function Section2() {
 
         <div className="card bg-base-100 w-96 shadow-sm  ">
           <figure className="px-10 pt-10">
-            <img
-              src="src\assets\american.jpg"
-              alt="Shoes"
-              className="rounded-xl"
-            />
+            <img src="\american.jpg" alt="Shoes" className="rounded-xl" />
           </figure>
           <div className="card-body items-center text-center">
             <h2 className="card-title">Americano</h2>
@@ -133,11 +121,7 @@ function Section2() {
 
         <div className="card bg-base-100 w-96 shadow-sm  ">
           <figure className="px-10 pt-10">
-            <img
-              src="src\assets\matchiato.jpg"
-              alt="Shoes"
-              className="rounded-xl"
-            />
+            <img src="\matchiato.jpg" alt="Shoes" className="rounded-xl" />
           </figure>
           <div className="card-body items-center text-center">
             <h2 className="card-title">Latte Macchiato</h2>
@@ -153,11 +137,7 @@ function Section2() {
 
         <div className="card bg-base-100 w-96 shadow-sm  ">
           <figure className="px-10 pt-10">
-            <img
-              src="src\assets\american.jpg"
-              alt="Shoes"
-              className="rounded-xl"
-            />
+            <img src="\american.jpg" alt="Shoes" className="rounded-xl" />
           </figure>
           <div className="card-body items-center text-center">
             <h2 className="card-title">Americano</h2>
